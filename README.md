@@ -1,10 +1,10 @@
-# self-vue
-- vue数据双向绑定原理分析和简单实现
-- 代码总共分为三个版本，v3为最终版本
+# vue2.0双向绑定学习
 
-## 效果图
-![Mou icon](./selfvue.gif)
-## 博客地址
-[http://www.cnblogs.com/canfoo/p/6891868.html](http://www.cnblogs.com/canfoo/p/6891868.html)
+
+
+～～～
+
+[原Github地址](https://github.com/canfoo/self-vue)
+[原讲解地址](https://juejin.im/entry/5923973da22b9d005893805a)
 
 
